@@ -1,0 +1,66 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "symbol": "AKBNK",
+      "name": "Akbank",
+      "price": "42.50",
+      "change": "0.00",
+      "changePercent": "0.00",
+      "volume": "12500000",
+      "lastUpdate": "2023-05-01T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "symbol": "GARAN",
+      "name": "Garanti Bankası",
+      "price": "85.75",
+      "change": "0.00",
+      "changePercent": "0.00",
+      "volume": "8500000",
+      "lastUpdate": "2023-05-01T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "symbol": "THYAO",
+      "name": "Türk Hava Yolları",
+      "price": "175.20",
+      "change": "0.00",
+      "changePercent": "0.00",
+      "volume": "4500000",
+      "lastUpdate": "2023-05-01T10:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "symbol": "TCELL",
+      "name": "Turkcell",
+      "price": "52.90",
+      "change": "0.00",
+      "changePercent": "0.00",
+      "volume": "6800000",
+      "lastUpdate": "2023-05-01T10:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "symbol": "ASELS",
+      "name": "Aselsan",
+      "price": "210.40",
+      "change": "0.00",
+      "changePercent": "0.00",
+      "volume": "3200000",
+      "lastUpdate": "2023-05-01T10:00:00.000Z"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": 1,
+      "userId": 1,
+      "stockId": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "stockId": 3
+    }
+  ]
+}
